@@ -213,7 +213,7 @@ const Website = () => {
                     <span className="text-sm font-medium text-gray-700">
                         Transparency
                     </span>
-                    <span className="text-sm font-medium text-blue-600">100%</span>
+                    <span className="text-sm font-medium text-blue-600">95%</span>
                     </div>
                     <div className="w-full bg-blue-200 rounded-full h-2">
                     <div
